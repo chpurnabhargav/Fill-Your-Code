@@ -396,7 +396,7 @@ export default function ChatBox() {
           setLoading(true);
       
           try {
-            const res = await fetch("https://fill-your-code-1.onrender.com/", {
+            const res = await fetch("https://fill-your-code-1.onrender.com/ask", {
               method: "POST",
               headers: { "Content-Type": "application/json" },
               body: JSON.stringify({ prompt: input }),
