@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Sidebar from './Sidebar';
+import Sidebar from './SideBar';
 import { FaBars } from 'react-icons/fa';
 
 export default function Layout({ children }) {
