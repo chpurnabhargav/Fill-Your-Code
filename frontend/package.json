@@ -9,6 +9,7 @@
         "lint": "next lint"
     },
     "dependencies": {
+        "@fontsource/roboto": "^5.2.5",
         "next": "15.2.2",
         "react": "^19.0.0",
         "react-dom": "^19.0.0",
