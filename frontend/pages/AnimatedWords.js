@@ -60,3 +60,6 @@ export function AnimatedWords() {
     </div>
   );
 }
+
+
+export default AnimatedWords;
