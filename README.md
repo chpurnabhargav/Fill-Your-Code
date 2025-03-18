@@ -1,22 +1,25 @@
 # Fill Your Code
 
-*A powerful coding platform that enhances productivity and collaboration!*
+🚀 Introducing Fill Your Code - The Ultimate Coding Platform!
+I’m thrilled to share Fill Your Code, a powerful full-stack project designed to enhance productivity, collaboration, and provide AI-powered coding assistance! 🎉
+✨ What is Fill Your Code?
 
-## 🚀 Overview
+It’s a real-time AI coding assistant built using Node.js, Express, and React (Next.js). Students can learn or ask about any code seamlessly with AI-assisted suggestions via the Gemini API! 🤖
+🔥 Key Features
 
-**Fill Your Code** is a full-stack project built with **Node.js, Express, MySQL, and React**. It provides a seamless environment for developers to share, collaborate, and execute code efficiently.
+✅ AI-Powered Chatbox – Get instant coding help (Gemini API)
 
-## ✨ Features
+✅ Intuitive & Developer-Friendly UI/UX
 
-- 🔥 **Real-time code collaboration**
-- 🚀 **Chatbox with AI-powered assistance (Gemini API integration)**
-- 🛠️ **Intuitive and user-friendly UI/UX**
+✅ Seamless Backend-Frontend Integration
+📜 Tech Stack
 
-## 📜 Tech Stack
+🛠 Backend: Node.js, Express
 
-- **Backend:** Node.js, Express, MySQL
-- **Frontend:** Next, Vercel
-- **Hosting:** Backend (Netlify), Frontend (Vercel)
+💻 Frontend: React (Next.js)
+
+🚀 Hosting: Backend deployed on Render
+
 
 ## 🛠️ Installation Guide
 
